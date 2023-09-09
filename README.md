@@ -20,7 +20,9 @@ pnpm dev
 ```
 https://www.loom.com/share/4ffc1bd57f35474599c29de42b7763a9?sid=3cc69947-1840-4c81-ae3a-1f9732812e5c
 
-
+## Tech Stack
+Next Js,Tailwind Css,Typescript
+Auth jS, stripe- For Payment
 ### Phone View
 https://www.loom.com/share/7d73b1b30a144bcba50b0a3c53dbfa6c?sid=e3f86f93-8f44-441a-be15-8dc76eecc0af
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
